@@ -8,6 +8,6 @@ This programme consist of the most challenging problem we tackled during the beg
 This is all the combination of computational physics I have programmed so far as from the beginning of July
 Most ot these problems are base on:
 ~~~
-> they are:
- -Runge Kutter Fourth Order
+
+ - Runge Kutter Fourth Order
 
