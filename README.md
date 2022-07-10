@@ -5,8 +5,8 @@ This programme consist of the most challenging problem we tackled during the beg
 
 ~~~python
 
-This is all the combination of computational physics I have proprammed so far as from the beginning of July
+This is all the combination of computational physics I have programmed so far as from the beginning of July
 Most ot these problems are base on:
 ~~~
--Runge Kutter Fourth Order
-## SMALER
+> -Runge Kutter Fourth Order
+
