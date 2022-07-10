@@ -7,7 +7,12 @@ This programme consist of the most challenging problem we tackled during the beg
 
 This is all the combination of computational physics I have programmed so far as from the beginning of July
 Most ot these problems are base on:
+ - Runge Kutter Fourth Order
 ~~~
 
- - Runge Kutter Fourth Order
+> Base on these lines of code there are few problems that are base on 
+- Newton Raphson method
+- Bisecant and,
+- Simpson rule 
+ > becuase these methods are simple and straightforward 
 
